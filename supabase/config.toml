@@ -1,0 +1,4 @@
+project_id = "hrzymaaigfmsjekoqfrz"
+
+[functions.racing-chat]
+verify_jwt = false
